@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff ;
+}
+
+h1{
+  background-color: #d6f1ff ;
+  color: #0300c7;
+  font-size: 400%;
+}
+
+p1 {
+  color: #0300c7;
+  font-size: 160%;
+}
+
+img{
+  border: 10px solid #d6f1ff;
+}
+
+iframe{
+  border: 10px solid #d6f1ff;
+}
